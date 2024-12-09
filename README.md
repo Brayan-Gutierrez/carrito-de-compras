@@ -1,3 +1,7 @@
+# Carro de compras en React 
+
+Utilizando componentes a base de clases y estilo inline
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
